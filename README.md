@@ -1,2 +1,2 @@
-# StudyC-
+# StudyC++
 StudyC++
